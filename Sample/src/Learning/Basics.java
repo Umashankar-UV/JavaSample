@@ -16,7 +16,7 @@ public class Basics {
 //		arrayAddition();
 //		sortArr();
 //		randNum();
-//		Calender();
+		Calender();
 		
 		for (int a = 1; a <= 10; a++) {
 			if (a % 2 == 0) {
